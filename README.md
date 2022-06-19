@@ -91,8 +91,8 @@ My résumé.
 
 ### Personal Highlights
 
-- _Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists paper: HERE
-- Styling Altair Charts with the feedzai-altair-theme blog post: HERE
+- Paper: _Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists: HERE
+- Blog post: Styling Altair Charts with the feedzai-altair-theme: HERE
 - Static charts: HERE
 
 ### Profiles
