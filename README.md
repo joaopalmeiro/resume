@@ -52,7 +52,10 @@ My résumé.
 
 ---
 
-- HERE
+- New Year's Course (25h), Introduction to Data Journalism
+- [NOVA School of Social Sciences and Humanities](https://guia.unl.pt/en/2022/fcsh) [(NOVA FCSH)](https://www.fcsh.unl.pt/en/school/)
+- Jan 2020
+- Grade: 20/20
 
 ---
 
@@ -60,6 +63,13 @@ My résumé.
 - [Faculty of Sciences of the University of Lisbon (FCUL)](https://ciencias.ulisboa.pt/en/the-faculty)
 - Sep 2018 - Jun 2019
 - Grade: 18/20
+
+---
+
+- BSc in Information Systems and Computer Engineering
+- [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/about-tecnico/) (IST)
+- Sep 2013 - Jul 2018
+- Grade: 13/20
 
 ### Personal Highlights
 
