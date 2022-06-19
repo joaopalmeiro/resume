@@ -41,7 +41,7 @@ My résumé.
 - Summer internship
 - Jul 2018 - Sep 2018 (2 mos)
 - Lisbon, Portugal
-- Tech stack: HERE (Drupal, HTML, CSS, Sass, JavaScript, jQuery)
+- Tech stack: HERE (Drupal, HTML, CSS, Sass, JavaScript, jQuery, Sourcetree)
 
 ### Education
 
@@ -90,6 +90,18 @@ My résumé.
 - Grade: 13/20
 
 ### Personal Highlights
+
+- _Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists paper: HERE
+- Styling Altair Charts with the feedzai-altair-theme blog post: HERE
+- Static charts: HERE
+
+### Profiles
+
+- [Behance](https://www.behance.net/joaopalmeiro): HERE
+- [DEV](https://dev.to/joaompalmeiro): HERE
+- [Figma](https://www.figma.com/@joaopalmeiro): HERE
+- [GitHub](https://github.com/joaopalmeiro): HERE
+- [Twitter](https://twitter.com/joaompalmeiro): HERE
 
 ## Notes
 
