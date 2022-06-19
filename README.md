@@ -23,7 +23,7 @@ My résumé.
 - Feedzai
 - Internship
 - Nov 2019 - Feb 2021 (1 yr 4 mos)
-- MSc thesis: HERE
+- MSc thesis: palmeiro.link/thesis
 
 ---
 
@@ -32,7 +32,7 @@ My résumé.
 - Summer internship
 - Jul 2019 - Aug 2019 (2 mos)
 - Lisbon, Portugal
-- Blog post: HERE
+- Blog post: palmeiro.link/si-blog
 
 ---
 
@@ -41,7 +41,7 @@ My résumé.
 - Summer internship
 - Jul 2018 - Sep 2018 (2 mos)
 - Lisbon, Portugal
-- Tech stack: HERE (Drupal, HTML, CSS, Sass, JavaScript, jQuery, Sourcetree)
+- Tech stack: palmeiro.link/si-stack (Drupal, HTML, CSS, Sass, JavaScript, jQuery, Sourcetree)
 
 ### Education
 
@@ -91,17 +91,17 @@ My résumé.
 
 ### Personal Highlights
 
-- Paper: _Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists: HERE
-- Blog post: Styling Altair Charts with the feedzai-altair-theme: HERE
-- Static charts: HERE
+- _Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists: palmeiro.link/ds-paper and palmeiro.link/ds-slides
+- Styling Altair Charts with the feedzai-altair-theme: palmeiro.link/alt-blog
+- Static charts: palmeiro.link/charts
 
 ### Profiles
 
-- [Behance](https://www.behance.net/joaopalmeiro): HERE
-- [DEV](https://dev.to/joaompalmeiro): HERE
-- [Figma](https://www.figma.com/@joaopalmeiro): HERE
-- [GitHub](https://github.com/joaopalmeiro): HERE
-- [Twitter](https://twitter.com/joaompalmeiro): HERE
+- [Behance](https://www.behance.net/joaopalmeiro): palmeiro.link/be
+- [DEV](https://dev.to/joaompalmeiro): palmeiro.link/blog
+- [Figma](https://www.figma.com/@joaopalmeiro): palmeiro.link/fig
+- [GitHub](https://github.com/joaopalmeiro): palmeiro.link/gh
+- [Twitter](https://twitter.com/joaompalmeiro): palmeiro.link/tw
 
 ## Notes
 
