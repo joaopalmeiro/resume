@@ -45,6 +45,24 @@ My résumé.
 
 ### Education
 
+- Course (200h), User Experience & User Interface Design
+- [EDIT. - Disruptive Digital Education](https://weareedit.io/politica-de-privacidade/) ([EDIT.](https://weareedit.io/escola/))
+- Since Mar 2022
+
+---
+
+- Workshop (12h), UX Writing Foundations
+- [EDIT. - Disruptive Digital Education](https://weareedit.io/politica-de-privacidade/) ([EDIT.](https://weareedit.io/escola/))
+- May 2022 - Jun 2022
+
+---
+
+- Workshop (12h), Web Copywriting
+- [EDIT. - Disruptive Digital Education](https://weareedit.io/politica-de-privacidade/) ([EDIT.](https://weareedit.io/escola/))
+- Mar 2022
+
+---
+
 - [MSc in Analysis and Engineering of Big Data](https://www.di.fct.unl.pt/en/education/master-analysis-and-engineering-big-data)
 - [NOVA School of Science and Technology (FCT NOVA)](https://www.fct.unl.pt/en/about-fct/overview)
 - Sep 2018 - Jan 2021
@@ -53,7 +71,7 @@ My résumé.
 ---
 
 - New Year's Course (25h), Introduction to Data Journalism
-- [NOVA School of Social Sciences and Humanities](https://guia.unl.pt/en/2022/fcsh) [(NOVA FCSH)](https://www.fcsh.unl.pt/en/school/)
+- [NOVA School of Social Sciences and Humanities](https://guia.unl.pt/en/2022/fcsh) ([NOVA FCSH](https://www.fcsh.unl.pt/en/school/))
 - Jan 2020
 - Grade: 20/20
 
