@@ -30,7 +30,16 @@ My résumé.
 
 ---
 
-- HERE
+- Research Intern
+- Internship
+- Nov 2019 - Feb 2021 (1 yr 4 mos)
+- MSc thesis: HERE
+
+---
+
+- Data Visualization Engineer
+- Full-time
+- Since Mar 2021 (1 yr 4 mos)
 
 ### Education
 
