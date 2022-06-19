@@ -12,7 +12,21 @@ My résumé.
 
 ### Experience
 
-- HERE
+- Assistant Consultant
+- everis
+- Summer internship
+- Jul 2018 - Sep 2018 (2 mos)
+- Lisbon, Portugal
+- Tech stack: HERE (Drupal, HTML, CSS, Sass, JavaScript, jQuery)
+
+---
+
+- Engineering Intern
+- Feedzai
+- Summer internship
+- Jul 2019 - Aug 2019 (2 mos)
+- Lisbon, Portugal
+- Blog post: HERE
 
 ---
 
