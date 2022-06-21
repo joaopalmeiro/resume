@@ -91,9 +91,12 @@ My résumé.
 
 ### Personal Highlights
 
+See more in the links below.
+
 - _Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists: palmeiro.link/ds-paper and palmeiro.link/ds-slides
 - Styling Altair Charts with the feedzai-altair-theme: palmeiro.link/alt-blog
 - Static charts: palmeiro.link/charts
+- _Consignar é o que está a dar!_: palmeiro.link/irs
 
 ### Profiles
 
