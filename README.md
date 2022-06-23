@@ -100,8 +100,9 @@ My résumé.
 See more in the links below./See more in the links at the bottom.
 
 - Styling Altair Charts with the feedzai-altair-theme: palmeiro.link/alt-blog
-- Static charts: palmeiro.link/charts
 - _Consignar é o que está a dar!_: palmeiro.link/irs
+- Static charts: palmeiro.link/charts
+- Writings: palmeiro.link/writings
 
 ### Profiles
 
