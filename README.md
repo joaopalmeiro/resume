@@ -18,7 +18,7 @@ My résumé.
 - Data Visualization Engineer
 - Feedzai
 - Full-time
-- Since Mar 2021 (1 yr 4 mos)
+- Since Mar 2021
 - Lisbon, Portugal
 - Paper (_Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists): palmeiro.link/ds-paper and palmeiro.link/ds-slides
 
@@ -27,7 +27,7 @@ My résumé.
 - Research Intern
 - Feedzai
 - Internship
-- Nov 2019 - Feb 2021 (1 yr 4 mos)
+- Nov 2019 - Feb 2021
 - Lisbon, Portugal
 - MSc thesis (MevaL: A Visual Machine Learning Model Evaluation Tool for Financial Crime Detection): palmeiro.link/thesis
 
@@ -36,18 +36,18 @@ My résumé.
 - Engineering Intern
 - Feedzai
 - Summer internship
-- Jul 2019 - Aug 2019 (2 mos)
+- Jul 2019 - Aug 2019
 - Lisbon, Portugal
-- Blog post: palmeiro.link/si-blog
+- Blog post (Plotting the first point of the Feedzai Charting Library.): palmeiro.link/si-blog
 
 ---
 
 - Assistant Consultant
 - everis (NTT DATA now)
 - Summer internship
-- Jul 2018 - Sep 2018 (2 mos)
+- Jul 2018 - Sep 2018
 - Lisbon, Portugal
-- Tech stack: palmeiro.link/si-stack (Drupal, HTML, CSS, Sass, JavaScript, jQuery, Sourcetree)
+- Tech stack (Drupal and Web Development): palmeiro.link/si-stack (Drupal, HTML, CSS, Sass, JavaScript, jQuery, Sourcetree)
 
 ### Education
 
