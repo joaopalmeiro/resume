@@ -2,6 +2,9 @@
 
 My résumé.
 
+- [read.cv](https://read.cv/joaopalmeiro) profile
+- [LinkedIn](https://www.linkedin.com/in/joaopalmeiro/) profile
+
 ## Data
 
 ### Basics
@@ -9,9 +12,11 @@ My résumé.
 - João Palmeiro
 - joaopalmeiro@proton.me
 - t.me/joaopalmeiro
-- Data Visualization Engineer @ Feedzai
+- Data Visualization Engineer @ Feedzai/Data Visualization Eng.
 - Lisbon, Portugal/PT
 - Hi 👋! I'm João and I'm working as a Data Visualization Engineer at Feedzai. From Lisbon, as part of the Research Department, we develop new charts and tools to support data scientists and fraud analysts. Each day is a mix of User Experience, Data Visualization, and Python/Front-End Programming. Also, I enjoy working on (personal) open-source projects, exploring/visualizing different datasets, and eating (I really like food).
+- Hi! I'm João and I'm working as a Data Visualization Engineer at Feedzai. As part of the Research Department, we develop new charts and tools to support data scientists and fraud analysts. Each day is a mix of User Experience, Data Visualization, and Python/Front-End Programming. Also, I enjoy working on (personal) open-source projects, exploring/visualizing different datasets, and eating (I really like food).
+- Hi 👋! I'm João and I'm working as a Data Visualization Engineer at Feedzai. As part of the Research Department, we develop new charts and tools to support data scientists and fraud analysts. Each day is a mix of User Experience, Data Visualization, and Python/Front-End Programming. Also, I enjoy working on (personal) open-source projects, exploring/visualizing different datasets, and eating (I really like food).
 
 ### Experience/Work Experience
 
@@ -115,6 +120,6 @@ See more in the links below./See more in the links at the bottom.
 ## Notes
 
 - [JSON Resume](https://jsonresume.org/).
-- [LinkedIn profile](https://www.linkedin.com/in/joaopalmeiro/).
 - [JSON Resume Editor](https://github.com/jsnelders/profile-studio).
 - [Standard Resume](https://standardresume.co/).
+- [Siddharth Arun's read.cv profile](https://read.cv/sdrn).
