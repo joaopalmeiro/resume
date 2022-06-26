@@ -124,4 +124,4 @@ See more in the links below./See more in the links at the bottom./See more at pa
 - [JSON Resume Editor](https://github.com/jsnelders/profile-studio).
 - [Standard Resume](https://standardresume.co/).
 - [Siddharth Arun's read.cv profile](https://read.cv/sdrn).
-- In addition to the outstanding experience provided by participating in a technology conference such as Web Summit, I developed some insight, I helped slightly refine the experience of some attendees, and I improved my English skills by delivering some logistical support to one of the 2016 edition stages as well as by being an usher.
+- Web Summit (volunteering): In addition to the outstanding experience provided by participating in a technology conference such as Web Summit, I developed some insight, I helped slightly refine the experience of some attendees, and I improved my English skills by delivering some logistical support to one of the 2016 edition stages as well as by being an usher.
