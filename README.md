@@ -26,6 +26,7 @@ My résumé.
 - Since Mar 2021
 - Lisbon, Portugal
 - Paper (_Data_+_Shift_: Supporting visual investigation of data distribution shifts by data scientists): palmeiro.link/ds-paper and palmeiro.link/ds-slides
+- Blog post (Styling Altair Charts with the feedzai-altair-theme): palmeiro.link/alt-blog
 
 ---
 
@@ -34,7 +35,7 @@ My résumé.
 - Internship
 - Nov 2019 - Feb 2021
 - Lisbon, Portugal
-- MSc thesis (MevaL: A Visual Machine Learning Model Evaluation Tool for Financial Crime Detection): palmeiro.link/thesis
+- MSc/Master's thesis (MevaL: A Visual Machine Learning Model Evaluation Tool for Financial Crime Detection): palmeiro.link/thesis
 
 ---
 
@@ -53,6 +54,7 @@ My résumé.
 - Jul 2018 - Sep 2018
 - Lisbon, Portugal
 - Tech stack (Drupal and Web Development): palmeiro.link/si-stack (Drupal, HTML, CSS, Sass, JavaScript, jQuery, Sourcetree)
+- For two months, I had the opportunity to join everis and, as a team, to work side by side with exceptional people using Drupal, HTML, CSS, Sass, JavaScript, and jQuery in a context of Web Development. In addition to developing some technical skills during this period, the experience was undoubtedly enhanced by all the support and kindness I received, as well as by the opportunity to feel, a bit, the business reality.
 
 ### Education
 
@@ -102,12 +104,11 @@ My résumé.
 
 ### Personal Highlights
 
-See more in the links below./See more in the links at the bottom.
+See more in the links below./See more in the links at the bottom./See more at palmeiro.link
 
-- Styling Altair Charts with the feedzai-altair-theme: palmeiro.link/alt-blog
 - _Consignar é o que está a dar!_: palmeiro.link/irs
-- Static charts: palmeiro.link/charts
-- Writings: palmeiro.link/writings
+- Static charts/My static charts: palmeiro.link/charts
+- Writings/My writings: palmeiro.link/writings
 
 ### Profiles
 
@@ -123,3 +124,4 @@ See more in the links below./See more in the links at the bottom.
 - [JSON Resume Editor](https://github.com/jsnelders/profile-studio).
 - [Standard Resume](https://standardresume.co/).
 - [Siddharth Arun's read.cv profile](https://read.cv/sdrn).
+- In addition to the outstanding experience provided by participating in a technology conference such as Web Summit, I developed some insight, I helped slightly refine the experience of some attendees, and I improved my English skills by delivering some logistical support to one of the 2016 edition stages as well as by being an usher.
