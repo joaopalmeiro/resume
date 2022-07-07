@@ -12,7 +12,7 @@ My résumé.
 - João Palmeiro
 - joaopalmeiro@proton.me
 - t.me/joaopalmeiro
-- Data Visualization Engineer @ Feedzai/Data Visualization Eng.
+- Data Visualization Engineer @ Feedzai/Data Visualization Eng./Data Visualization
 - Lisbon, Portugal/PT
 - Hi 👋! I'm João and I'm working as a Data Visualization Engineer at Feedzai. From Lisbon, as part of the Research Department, we develop new charts and tools to support data scientists and fraud analysts. Each day is a mix of User Experience, Data Visualization, and Python/Front-End Programming. Also, I enjoy working on (personal) open-source projects, exploring/visualizing different datasets, and eating (I really like food).
 - Hi! I'm João and I'm working as a Data Visualization Engineer at Feedzai. As part of the Research Department, we develop new charts and tools to support data scientists and fraud analysts. Each day is a mix of User Experience, Data Visualization, and Python/Front-End Programming. Also, I enjoy working on (personal) open-source projects, exploring/visualizing different datasets, and eating (I really like food).
