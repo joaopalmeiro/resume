@@ -6,8 +6,8 @@
 - [Siddharth Arun's read.cv profile](https://read.cv/sdrn).
 - Web Summit (volunteering): In addition to the outstanding experience provided by participating in a technology conference such as Web Summit, I developed some insight, I helped slightly refine the experience of some attendees, and I improved my English skills by delivering some logistical support to one of the 2016 edition stages as well as by being an usher.
 - Filename: `joao_palmeiro_resume.pdf`.
-- https://en.wikipedia.org/wiki/UTC%2B00:00 (`UTC+00:00`)
-- https://cv.jarocki.me/
+- https://en.wikipedia.org/wiki/UTC%2B00:00 (`UTC+00:00`).
+- https://cv.jarocki.me/.
 
 ## Data
 
