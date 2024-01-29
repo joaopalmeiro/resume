@@ -10,6 +10,13 @@
 - https://cv.jarocki.me/
 - https://opensource.org/about/: "Open Source"
 - https://lucide.dev/icons/
+- https://edit.verified.cv/en/
+
+## Profiles
+
+- [read.cv](https://read.cv/joaopalmeiro)
+- [LinkedIn](https://www.linkedin.com/in/joaopalmeiro/)
+- [EDIT.](https://edit.verified.cv/en/profile/joomariamateuspalmeiro429700)
 
 ## Data
 
