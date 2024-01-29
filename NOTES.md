@@ -9,6 +9,7 @@
 - https://en.wikipedia.org/wiki/UTC%2B00:00: UTC+00:00
 - https://cv.jarocki.me/
 - https://opensource.org/about/: "Open Source"
+- https://lucide.dev/icons/
 
 ## Data
 
