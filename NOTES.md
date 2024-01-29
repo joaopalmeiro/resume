@@ -10,6 +10,7 @@
 - https://cv.jarocki.me/
 - https://opensource.org/about/: "Open Source"
 - https://lucide.dev/icons/
+- https://heroicons.com/micro
 - https://edit.verified.cv/en/
 
 ## Profiles
