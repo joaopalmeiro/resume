@@ -18,6 +18,7 @@
   - https://www.figma.com/community/plugin/752558325552095625
   - https://www.figma.com/community/plugin/1138854718618193875
   - _Layer_ > _Pass through_ > _20%_ + _Fill_ > _10%_ ([first](https://www.figma.com/community/plugin/752558325552095625)) + _Fill_ > _100%_ ([second](https://www.figma.com/community/plugin/1138854718618193875))
+- https://github.com/spences10/cv + https://www.mecv.xyz/
 
 ## Profiles
 
