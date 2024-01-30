@@ -12,6 +12,12 @@
 - https://lucide.dev/icons/
 - https://heroicons.com/micro
 - https://edit.verified.cv/en/
+- https://www.compart.com/en/unicode/U+00B7: `·`
+- https://opensource.guide/how-to-contribute/: _open source contributions_
+- Noise:
+  - https://www.figma.com/community/plugin/752558325552095625
+  - https://www.figma.com/community/plugin/1138854718618193875
+  - _Layer_ > _Pass through_ > _20%_ + _Fill_ > _10%_ ([first](https://www.figma.com/community/plugin/752558325552095625)) + _Fill_ > _100%_ ([second](https://www.figma.com/community/plugin/1138854718618193875))
 
 ## Profiles
 
