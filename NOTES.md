@@ -20,6 +20,7 @@
   - _Layer_ > _Pass through_ > _20%_ + _Fill_ > _10%_ ([first](https://www.figma.com/community/plugin/752558325552095625)) + _Fill_ > _100%_ ([second](https://www.figma.com/community/plugin/1138854718618193875))
 - https://github.com/spences10/cv + https://www.mecv.xyz/
 - https://github.com/BartoszJarocki/cv/blob/7b40b0b2eed11103c49fc9266a3fed84206e7a2f/src/data/resume-data.tsx#L26: https://www.google.com/maps/place/Lisbon
+- https://www.openstreetmap.org/?mlat=38.7077507&mlon=-9.1365919
 
 ## Profiles
 
